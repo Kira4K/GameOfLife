@@ -1,6 +1,6 @@
 # Мой проект Game of Life
 
-![Скриншот игры](GameOfLife/images/imageFirst)
+![Скриншот игры](images/Image.png)
 
 ## Описание
 Это моя реализация игры "Жизнь" на Unity.
